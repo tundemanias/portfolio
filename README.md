@@ -4,7 +4,7 @@
 I"m Babatunde from Nigeria, Frontend Developer |  Lover of life    |  Biochemist    |  In-store   |  Mentee  |   Intent   |  ❤ Life is so much brighter when we focus on what truly matters.
 
 ## SkillS and Experience
-* ⚛ Reac
+* ⚛ React
 * 📱 React Native
 * 💻 HTML, CSS, JS
 
