@@ -1,6 +1,6 @@
 ### Hi there 👋, Awolode Babatunde
 #### Frontend Developer
-![Frontend Developer](https://pbs.twimg.com/profile_banners/264414594/1645369906/600x200)
+![Frontend Developer](https://github.com/tundemanias/tundemanias/blob/main/background%20image.png)
 
 I"m A. Babatunde from Nigeria, Frontend Developer |  Lover of life    |  Biochemist    |  In-store   |  Mentee  |   Intent   |  ❤ Life is so much brighter when we focus on what truly matters
 
