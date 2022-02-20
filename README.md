@@ -1,5 +1,11 @@
-### Hi there 👋:
+### Hi there 👋, Awolode Babatunde
+#### Frontend Developer
+![Frontend Developer](https://pbs.twimg.com/profile_banners/264414594/1645369906/600x200)
 
-I"m A. Babatunde from Nigeria, and I do content on Design and Development. I really enjoying learning languages and framework like React and React Native, as well as work in wordpress. I also enjoy wireframing, ui, ux, and design in general.
+I"m A. Babatunde from Nigeria, Frontend Developer |  Lover of life    |  Biochemist    |  In-store   |  Mentee  |   Intent   |  ❤ Life is so much brighter when we focus on what truly matters
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tundemanias)](https://github.com/anuraghazra/github-readme-stats)
+Skills: HTML / CSS /JS 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/tundemanias)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Tundemanias)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/tunde_mania//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Tunde_mania)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/tundemanias)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/awolodebabatunde)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/tundemanias)  
+
