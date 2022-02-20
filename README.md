@@ -10,8 +10,7 @@ I"m Babatunde from Nigeria, Frontend Developer |  Lover of life    |  Biochemist
 
 ## Example of work
 <img src="https://github.com/tundemanias/tundemanias/blob/main/business%20card.gif" width="240" height="180" border="10">
-<img src="https://github.com/tundemanias/tundemanias/blob/main/plumber%20card.gif" width="240" height="180" border="10">
-<img src="https://github.com/tundemanias/tundemanias/blob/main/civil%20engr%20card.gif" width="240" height="180" border="10">
+<img src="https://github.com/tundemanias/tundemanias/blob/main/plumber%20card.gif" width="240" height="180" border="10"> <img src="https://github.com/tundemanias/tundemanias/blob/main/civil%20engr%20card.gif" width="240" height="180" border="10">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tundemanias)](https://github.com/anuraghazra/github-readme-stats)
 
